@@ -1,5 +1,5 @@
 def func(x):
 	return x
 
-print("Hello")
+print("Hello, everyone else!")
 
